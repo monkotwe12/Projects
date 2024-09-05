@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+}
+.container{
+    background: #00FFFF;
+box-shadow:  20px 20px 60px #00d9d9,
+             -20px -20px 60px #00ffff;
+
+    width: 500px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 6px;
+}
+input{
+    width: 450px;
+    height: 55px;
+    margin-left: 19px;
+    background: #00FFFF;
+box-shadow:  20px 20px 60px #00d9d9,
+             -20px -20px 60px #00ffff;
+
+    
+}
+form{
+    position: relative;top: 50px;
+}
+#checkbox{
+    width: 15px;
+    position: relative;top: -10px;
+}
+span{
+    position: relative;top: -25px;
+}
+button{
+    width: 450px;
+    margin-left: 19px;
+    height: 50px;
+    background-color: white;
+    color: aqua;
+    border-radius: 4px;
+}
